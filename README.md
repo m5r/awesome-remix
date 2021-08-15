@@ -31,6 +31,10 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [camchenry-remix](https://github.com/camchenry/camchenry-remix)
 - [sergiodxa/personal-site](https://github.com/sergiodxa/personal-site)
 
+## Snippets
+
+- [sitemap.xml generator](https://gist.github.com/andrelandgraf/0112631dcdf6640e4bd44360d3e7a08e)
+
 ## Videos
 
 - [CDN Caching, Static Site Generation, and Server Side Rendering](https://www.youtube.com/watch?v=bfLFHp7Sbkg)

@@ -12,8 +12,10 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ## Packages
 
-- [Remix Auth](https://github.com/sergiodxa/remix-auth) - Simple Authentication for Remix
-- [Remix Utils](https://github.com/sergiodxa/remix-utils) - A set of utility functions and types to use with Remix.run
+- [remix-auth](https://github.com/sergiodxa/remix-auth) - Simple Authentication for Remix
+- [remix-utils](https://github.com/sergiodxa/remix-utils) - A set of utility functions and types to use with Remix.run
+- [remix-i18next](https://github.com/sergiodxa/remix-i18next) - The easiest way to translate your Remix apps
+- [remix-seo](https://github.com/chaance/remix-seo) - A package for easily managing SEO meta and link tags in Remix.
 
 ## Templates
 
@@ -21,10 +23,12 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [remix-nested-layouts](https://github.com/brookslybrand/remix-nested-layouts)
 - [remix-tailwind-starter](https://github.com/mcansh/remix-tailwind-starter)
 - [remix-on-netlify](https://github.com/ascorbic/remix-on-netlify)
+- [remix-css-modules](https://github.com/jacob-ebey/remix-css-modules)
+- [remix-auth-layouts-example](https://github.com/jacob-ebey/remix-auth-layouts-example/tree/main/app/routes)
 
 ## Example Apps
 
-- [remix-kentcdodds](https://github.com/kentcdodds/remix-kentcdodds)
+- [kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com)
 - [hova-labs-remix](https://github.com/HovaLabs/hova-labs-remix)
 - [snkrs](https://github.com/mcansh/snkrs)
 - [realworld-remix.run](https://github.com/BenoitAverty/realworld-remix.run)
@@ -33,6 +37,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ## Snippets
 
+- [HOWTO: Debug your server-side Remix code using VSCode](https://gist.github.com/kiliman/a9d7c874af03369a1d105a92560d89e9)
 - [sitemap.xml generator](https://gist.github.com/andrelandgraf/0112631dcdf6640e4bd44360d3e7a08e)
 
 ## Videos
@@ -46,6 +51,8 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ## Blog Posts
 
+- [How Remix makes CSS clashes predictable](https://kentcdodds.com/blog/how-remix-makes-css-clashes-predictable)
+- [Super Simple Start to Remix](https://kentcdodds.com/blog/super-simple-start-to-remix)
 - [Use ETags in Remix](https://sergiodxa.com/articles/use-etags-in-remix)
 - [Stable Forms in Remix](https://dev.to/zachtylr21/stable-forms-in-remix-226p)
 - [Generating Social Images with Remix](https://camchenry.com/blog/generating-social-images-with-remix)

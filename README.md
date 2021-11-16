@@ -25,6 +25,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [remix-on-netlify](https://github.com/ascorbic/remix-on-netlify)
 - [remix-css-modules](https://github.com/jacob-ebey/remix-css-modules)
 - [remix-auth-layouts-example](https://github.com/jacob-ebey/remix-auth-layouts-example/tree/main/app/routes)
+- [remix-worker-template](https://github.com/edmundhung/remix-worker-template) - All-in-one Remix Cloudflare worker template with tailwindcss, cypress, eslint and prettier 
 
 ## Example Apps
 

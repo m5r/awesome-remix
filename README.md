@@ -52,6 +52,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ## Blog Posts
 
+- [Use NProgress in a Remix app](https://sergiodxa.com/articles/use-nprogress-in-a-remix-app)
 - [How Remix makes CSS clashes predictable](https://kentcdodds.com/blog/how-remix-makes-css-clashes-predictable)
 - [Super Simple Start to Remix](https://kentcdodds.com/blog/super-simple-start-to-remix)
 - [Use ETags in Remix](https://sergiodxa.com/articles/use-etags-in-remix)

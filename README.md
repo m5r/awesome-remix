@@ -35,6 +35,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [realworld-remix.run](https://github.com/BenoitAverty/realworld-remix.run)
 - [camchenry-remix](https://github.com/camchenry/camchenry-remix)
 - [sergiodxa/personal-site](https://github.com/sergiodxa/personal-site)
+- [metronome.sh](https://metronome.sh)
 
 ## Snippets
 

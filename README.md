@@ -26,7 +26,8 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [remix-on-netlify](https://github.com/ascorbic/remix-on-netlify)
 - [remix-css-modules](https://github.com/jacob-ebey/remix-css-modules)
 - [remix-auth-layouts-example](https://github.com/jacob-ebey/remix-auth-layouts-example/tree/main/app/routes)
-- [remix-worker-template](https://github.com/edmundhung/remix-worker-template) - All-in-one Remix Cloudflare worker template with tailwindcss, cypress, eslint and prettier 
+- [remix-worker-template](https://github.com/edmundhung/remix-worker-template) - All-in-one Remix Cloudflare worker template with tailwindcss, cypress, eslint and prettier
+- [remix-starter-kit](https://github.com/one-aalam/remix-starter-kit) - Remix feat. Supabase(Auth, CRUD, Storage) with other essentials - TailwindCSS, DaisyUI, ESLint, etc.
 
 ## Example Apps
 
@@ -73,3 +74,4 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [Using Form Objects inside Remix actions](https://sergiodxa.com/articles/using-form-objects-inside-remix-actions)
 - [Route protection in Remix with Policies](https://sergiodxa.com/articles/route-protection-in-remix-with-policies)
 - [Redirect to the original URL inside a Remix action](https://sergiodxa.com/articles/redirect-to-the-original-url-inside-a-remix-action)
+- [Why Remix is worth your attention](https://blog.plasmic.app/posts/why-remix-is-worth-your-attention/)

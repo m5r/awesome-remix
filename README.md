@@ -17,6 +17,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [remix-i18next](https://github.com/sergiodxa/remix-i18next) - The easiest way to translate your Remix apps
 - [remix-seo](https://github.com/chaance/remix-seo) - A package for easily managing SEO meta and link tags in Remix.
 - [remix-params-helper](https://github.com/kiliman/remix-params-helper) - Helpers that make it simple to use Zod with URLSearchParams, FormData, and Remix params object
+- [remix-tailwind](https://github.com/itsMapleLeaf/remix-tailwind) - Use TailwindCSS with Remix without an extra build step
 
 ## Templates
 

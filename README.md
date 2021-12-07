@@ -39,6 +39,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [camchenry-remix](https://github.com/camchenry/camchenry-remix)
 - [sergiodxa/personal-site](https://github.com/sergiodxa/personal-site)
 - [metronome.sh](https://metronome.sh)
+- [sergiodxa/collected-remix](https://github.com/sergiodxa/collected-remix)
 
 ## Snippets
 
@@ -47,16 +48,29 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ## Videos
 
+- [Introducing Remix v1 💿](https://www.youtube.com/watch?v=wsJaUjd1rUo)
 - [CDN Caching, Static Site Generation, and Server Side Rendering](https://www.youtube.com/watch?v=bfLFHp7Sbkg)
 - [Document Titles in Remix](https://www.youtube.com/watch?v=nXjMorEABFQ)
 - [Live with Kent: Building Authentication with Postgres, Prisma, and Remix](https://www.youtube.com/watch?v=XkZINZDDdms)
 - [Progressive Enhancement with Remix](https://www.youtube.com/watch?v=VM4VMESF3tU)
 - [How to Add Nested/Persistent Layouts in Remix](https://www.youtube.com/watch?v=2QlxdDGqJ2c)
 - [Introduction to HTTP Caching](https://www.youtube.com/watch?v=3XkU_DXcgl0)
+- [Deploy Remix to Netlify Serverless Functions in less than 3 minutes](https://www.youtube.com/watch?v=tCGEoheZFfQ)
+- [Remix Utah Meetup 2021-12-02](https://www.youtube.com/watch?v=YD3U6jo9epY)
+- [Remix Tutorial with Kent](https://www.youtube.com/watch?v=hsIWJpuxNj0)
+- [Interview to Michael Jackson at devtools-fm](https://www.youtube.com/watch?v=xI-OggjrKLg)
+- [Remix Tutorial | Trying out the newest React Framework!](https://www.youtube.com/watch?v=SmMqdF2v30s)
+- [Remix Run Speedrun - Pokemon](https://www.youtube.com/watch?v=rgZkd-RAYfE)
+- [Remix is a NEW JavaScript framework you MUST try](https://www.youtube.com/watch?v=r4B69HAOXnA)
 
 ## Blog Posts
 
 - [On Rails](https://marbiano.dev/into-remix/on-rails)
+- [Loader vs Route Cache Headers in Remix](https://sergiodxa.com/articles/loader-vs-route-cache-headers-in-remix)
+- [The useMatches hook in Remix](https://sergiodxa.com/articles/the-usematches-hook-in-remix)
+- [Validating Remix forms with Constraints API](https://sergiodxa.com/articles/validating-remix-forms-with-constraints-api)
+- [Test Remix loaders and actions](https://sergiodxa.com/articles/test-remix-loaders-and-actions)
+- [Use Fathom with Remix](https://sergiodxa.com/articles/use-fathom-with-remix)
 - [Use NProgress in a Remix app](https://sergiodxa.com/articles/use-nprogress-in-a-remix-app)
 - [How Remix makes CSS clashes predictable](https://kentcdodds.com/blog/how-remix-makes-css-clashes-predictable)
 - [Super Simple Start to Remix](https://kentcdodds.com/blog/super-simple-start-to-remix)

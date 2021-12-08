@@ -18,6 +18,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [remix-seo](https://github.com/chaance/remix-seo) - A package for easily managing SEO meta and link tags in Remix.
 - [remix-params-helper](https://github.com/kiliman/remix-params-helper) - Helpers that make it simple to use Zod with URLSearchParams, FormData, and Remix params object
 - [remix-tailwind](https://github.com/itsMapleLeaf/remix-tailwind) - Use TailwindCSS with Remix without an extra build step
+- [remix-valiated-form](https://github.com/airjp73/remix-validated-form) - A ValidatedForm component and helpers for easy client and server side form validation.
 
 ## Templates
 

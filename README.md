@@ -66,7 +66,9 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 
 ## Blog Posts
 
+- [React Server Components and Remix](https://remix.run/blog/react-server-components)
 - [On Rails](https://marbiano.dev/into-remix/on-rails)
+- [First impressions with Remix](https://blog.vararu.org/remix)
 - [Loader vs Route Cache Headers in Remix](https://sergiodxa.com/articles/loader-vs-route-cache-headers-in-remix)
 - [The useMatches hook in Remix](https://sergiodxa.com/articles/the-usematches-hook-in-remix)
 - [Validating Remix forms with Constraints API](https://sergiodxa.com/articles/validating-remix-forms-with-constraints-api)

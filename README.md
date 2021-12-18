@@ -94,3 +94,4 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [Route protection in Remix with Policies](https://sergiodxa.com/articles/route-protection-in-remix-with-policies)
 - [Redirect to the original URL inside a Remix action](https://sergiodxa.com/articles/redirect-to-the-original-url-inside-a-remix-action)
 - [Why Remix is worth your attention](https://blog.plasmic.app/posts/why-remix-is-worth-your-attention/)
+- [Remix for Next.js Developers](https://blog.plasmic.app/posts/remix-for-nextjs-developers/)

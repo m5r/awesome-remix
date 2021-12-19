@@ -20,6 +20,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [remix-tailwind](https://github.com/itsMapleLeaf/remix-tailwind) - Use TailwindCSS with Remix without an extra build step
 - [remix-valiated-form](https://github.com/airjp73/remix-validated-form) - A ValidatedForm component and helpers for easy client and server side form validation.
 - [remix-themes](https://github.com/abereghici/remix-themes) - An abstraction for themes in your Remix app.
+
 ## Templates
 
 - [remix-azure-template](https://github.com/danielgary/remix-azure-template) - Remix app deployed to Azure Functions

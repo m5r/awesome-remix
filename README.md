@@ -21,6 +21,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [remix-valiated-form](https://github.com/airjp73/remix-validated-form) - A ValidatedForm component and helpers for easy client and server side form validation.
 - [remix-themes](https://github.com/abereghici/remix-themes) - An abstraction for themes in your Remix app.
 - [remix-routes](https://github.com/yesmeck/remix-routes) - Typesafe routing for your Remix apps.
+- [remix-middleware](https://github.com/nerosnap/remix-middleware) - An express-like middleware system for remix loaders and actions
 
 ## Templates
 

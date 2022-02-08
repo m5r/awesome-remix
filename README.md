@@ -33,6 +33,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [remix-auth-layouts-example](https://github.com/jacob-ebey/remix-auth-layouts-example/tree/main/app/routes)
 - [remix-worker-template](https://github.com/edmundhung/remix-worker-template) - All-in-one Remix Cloudflare worker template with tailwindcss, cypress, eslint and prettier
 - [remix-starter-kit](https://github.com/one-aalam/remix-starter-kit) - Remix feat. Supabase(Auth, CRUD, Storage) with other essentials - TailwindCSS, DaisyUI, ESLint, etc.
+- [remix-edge-kit](https://github.com/one-aalam/remix-edge-kit) - Remix feat. Prisma(Railway.app/Planetscale)/FaunaDB/Supabase and other essentials but designed for Cloudflare workers
 
 ## Example Apps
 

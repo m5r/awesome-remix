@@ -45,6 +45,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [metronome.sh](https://metronome.sh)
 - [sergiodxa/collected-remix](https://github.com/sergiodxa/collected-remix)
 - [Interactive Remix Routing](https://github.com/dilums/interactive-remix-routing)
+- [Remix Ink](https://github.com/one-aalam/remix-ink)
 
 ## Snippets
 

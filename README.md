@@ -22,6 +22,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [remix-themes](https://github.com/abereghici/remix-themes) - An abstraction for themes in your Remix app.
 - [remix-routes](https://github.com/yesmeck/remix-routes) - Typesafe routing for your Remix apps.
 - [remix-middleware](https://github.com/neurosnap/remix-middleware) - An express-like middleware system for remix loaders and actions
+- [remix-crash](https://github.com/xstevenyung/remix-crash) - Get better insight on why your Remix app crashed during development 💥 
 
 ## Templates
 

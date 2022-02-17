@@ -23,6 +23,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [remix-routes](https://github.com/yesmeck/remix-routes) - Typesafe routing for your Remix apps.
 - [remix-middleware](https://github.com/neurosnap/remix-middleware) - An express-like middleware system for remix loaders and actions
 - [remix-crash](https://github.com/xstevenyung/remix-crash) - Get better insight on why your Remix app crashed during development 💥 
+- [remix-pwa](https://github.com/ShafSpecs/remix-pwa) - A package to integrate PWA features into Remix 
 
 ## Templates
 

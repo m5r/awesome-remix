@@ -22,7 +22,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [remix-themes](https://github.com/abereghici/remix-themes) - An abstraction for themes in your Remix app.
 - [remix-routes](https://github.com/yesmeck/remix-routes) - Typesafe routing for your Remix apps.
 - [remix-middleware](https://github.com/neurosnap/remix-middleware) - An express-like middleware system for remix loaders and actions
-- [remix-crash](https://github.com/xstevenyung/remix-crash) - Get better insight on why your Remix app crashed during development 💥 
+- [remix-crash](https://github.com/xstevenyung/remix-crash) - Get better insight on why your Remix app crashed during development 💥
 - [remix-pwa](https://github.com/ShafSpecs/remix-pwa) - A package to integrate PWA features into Remix
 - [superjson-remix](https://github.com/donavon/superjson-remix) - A solution for Remix that allows you to send binary data from your loader to your React client app
 - [remix-etag](https://github.com/donavon/remix-etag) - Makes adding an ETag header to a response easy
@@ -38,6 +38,8 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [remix-worker-template](https://github.com/edmundhung/remix-worker-template) - All-in-one Remix Cloudflare worker template with tailwindcss, cypress, eslint and prettier
 - [remix-starter-kit](https://github.com/one-aalam/remix-starter-kit) - Remix feat. Supabase(Auth, CRUD, Storage) with other essentials - TailwindCSS, DaisyUI, ESLint, etc.
 - [remix-edge-kit](https://github.com/one-aalam/remix-edge-kit) - Remix feat. Prisma(Railway.app/Planetscale)/FaunaDB/Supabase and other essentials but designed for Cloudflare workers
+- [remix-edgedb](https://github.com/edgedb/remix) - Remix ft. EdgeDB, Tailwind, Fly, and cookie-based authorization
+- [remix-chop-suey-stack](https://github.com/jkcorrea/remix-chop-suey-stack) - Remix ft. EdgeDB, Tailwind, Fly, and Clerk
 
 ## Example Apps
 

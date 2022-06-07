@@ -36,6 +36,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [grunge-stack](https://github.com/remix-run/grunge-stack) - The Grunge Stack: Deployed to a serverless function running Node.js with DynamoDB for persistence. Intended for folks who want to deploy a production-grade application on AWS infrastructure serving millions of users.
 - [speed-metal-stack](https://github.com/Girish21/speed-metal-stack) - The Remix Blog Stack for deploying to Fly with MDX, SQLite, testing, linting, formatting, etc.
 - [remix-worker-template](https://github.com/edmundhung/remix-worker-template) - All-in-one Remix Cloudflare worker template with tailwindcss, cypress, eslint and prettier
+- [remix-edgedb](https://github.com/edgedb/remix) - Remix ft. EdgeDB, Tailwind, Fly, and cookie-based authorization
 - [kpop-stack](https://github.com/netlify-templates/kpop-stack) - Create a Remix app with Netlify, Tailwind, TypeScript and more!
 - [supa-fly-stack](https://github.com/rphlmr/supa-fly-stack) - The Remix Stack for deploying to Fly with Supabase, authentication, testing, linting, formatting, etc.
 - [rockspec-stack](https://github.com/ShafSpecs/rockspec-stack) - A fully configurable & customizable Remix PWA stack.

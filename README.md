@@ -5,6 +5,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 ## Contents
 
 - [Packages](#Packages)
+- [Stacks](#Stacks)
 - [Templates](#Templates)
 - [Example Apps](#Example-Apps)
 - [Videos](#Videos)
@@ -28,6 +29,21 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [remix-etag](https://github.com/donavon/remix-etag) - Makes adding an ETag header to a response easy
 - [remix-domains](https://github.com/SeasonedSoftware/remix-domains/) - Decouple your business logic from your Remix actions and loaders. With first-class type inference from end to end.
 
+## Stacks
+
+- [blues-stack](https://github.com/remix-run/blues-stack) - The Blues Stack: Deployed to the edge (distributed) with a long-running Node.js server and PostgreSQL database. Intended for large and fast production-grade applications serving millions of users.
+- [indie-stack](https://github.com/remix-run/indie-stack) - The Indie Stack: Deployed to a long-running Node.js server with a persistent SQLite database. This stack is great for websites with dynamic data that you control (blogs, marketing, content sites). It's also a perfect, low-complexity bootstrap for MVPs, prototypes, and proof-of-concepts that can later be updated to the Blues stack easily.
+- [grunge-stack](https://github.com/remix-run/grunge-stack) - The Grunge Stack: Deployed to a serverless function running Node.js with DynamoDB for persistence. Intended for folks who want to deploy a production-grade application on AWS infrastructure serving millions of users.
+- [speed-metal-stack](https://github.com/Girish21/speed-metal-stack) - The Remix Blog Stack for deploying to Fly with MDX, SQLite, testing, linting, formatting, etc.
+- [remix-worker-template](https://github.com/edmundhung/remix-worker-template) - All-in-one Remix Cloudflare worker template with tailwindcss, cypress, eslint and prettier
+- [remix-edgedb](https://github.com/edgedb/remix) - Remix ft. EdgeDB, Tailwind, Fly, and cookie-based authorization
+- [kpop-stack](https://github.com/netlify-templates/kpop-stack) - Create a Remix app with Netlify, Tailwind, TypeScript and more!
+- [supa-fly-stack](https://github.com/rphlmr/supa-fly-stack) - The Remix Stack for deploying to Fly with Supabase, authentication, testing, linting, formatting, etc.
+- [rockspec-stack](https://github.com/ShafSpecs/rockspec-stack) - A fully configurable & customizable Remix PWA stack.
+- [dnb-stack](https://github.com/robipop22/dnb-stack) - The Remix Stack for deploying to Vercel with testing, linting, formatting, structure and mock for 3rd party API integration.
+- [azure-remix-stack](https://github.com/aaronpowell/azure-remix-stack) - A remix stack template for running a remix app on Azure
+- [remix-chop-suey-stack](https://github.com/jkcorrea/remix-chop-suey-stack) - Remix+EdgeDB+Tailwind+Fly.io=🖤
+
 ## Templates
 
 - [remix-azure-template](https://github.com/danielgary/remix-azure-template) - Remix app deployed to Azure Functions
@@ -36,11 +52,8 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [remix-on-netlify](https://github.com/ascorbic/remix-on-netlify)
 - [remix-css-modules](https://github.com/jacob-ebey/remix-css-modules)
 - [remix-auth-layouts-example](https://github.com/jacob-ebey/remix-auth-layouts-example/tree/main/app/routes)
-- [remix-worker-template](https://github.com/edmundhung/remix-worker-template) - All-in-one Remix Cloudflare worker template with tailwindcss, cypress, eslint and prettier
 - [remix-starter-kit](https://github.com/one-aalam/remix-starter-kit) - Remix ft. Supabase(Auth, CRUD, Storage) with other essentials - TailwindCSS, DaisyUI, ESLint, etc.
 - [remix-edge-kit](https://github.com/one-aalam/remix-edge-kit) - Remix ft. Prisma(Railway.app/Planetscale)/FaunaDB/Supabase and other essentials but designed for Cloudflare workers
-- [remix-edgedb](https://github.com/edgedb/remix) - Remix ft. EdgeDB, Tailwind, Fly, and cookie-based authorization
-- [remix-chop-suey-stack](https://github.com/jkcorrea/remix-chop-suey-stack) - Remix ft. EdgeDB, Tailwind, Fly, and Clerk
 
 ## Example Apps
 

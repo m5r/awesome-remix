@@ -89,6 +89,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [Remix Tutorial | Trying out the newest React Framework!](https://www.youtube.com/watch?v=SmMqdF2v30s)
 - [Remix Run Speedrun - Pokemon](https://www.youtube.com/watch?v=rgZkd-RAYfE)
 - [Remix is a NEW JavaScript framework you MUST try](https://www.youtube.com/watch?v=r4B69HAOXnA)
+- [Playlist: Build A Fullstack App with Remix, Prisma & MongoDB](https://www.youtube.com/playlist?list=PLn2e1F9Rfr6kPDIAbfkOxgDLf4N3bFiMn)
 
 ## Blog Posts
 
@@ -120,3 +121,4 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [Redirect to the original URL inside a Remix action](https://sergiodxa.com/articles/redirect-to-the-original-url-inside-a-remix-action)
 - [Why Remix is worth your attention](https://blog.plasmic.app/posts/why-remix-is-worth-your-attention/)
 - [Remix for Next.js Developers](https://blog.plasmic.app/posts/remix-for-nextjs-developers/)
+- [Series: Build A Fullstack App with Remix, Prisma & MongoDB](https://www.prisma.io/blog/fullstack-remix-prisma-mongodb-1-7D0BfTXBmB6r)

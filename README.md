@@ -67,6 +67,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [sergiodxa/collected-remix](https://github.com/sergiodxa/collected-remix)
 - [Interactive Remix Routing](https://github.com/dilums/interactive-remix-routing)
 - [Remix Ink](https://github.com/one-aalam/remix-ink)
+- [jotyy/remix-portfolio](https://github.com/jotyy/remix-portfolio)
 
 ## Snippets
 

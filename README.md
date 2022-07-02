@@ -28,6 +28,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [superjson-remix](https://github.com/donavon/superjson-remix) - A solution for Remix that allows you to send binary data from your loader to your React client app
 - [remix-etag](https://github.com/donavon/remix-etag) - Makes adding an ETag header to a response easy
 - [remix-domains](https://github.com/SeasonedSoftware/remix-domains/) - Decouple your business logic from your Remix actions and loaders. With first-class type inference from end to end.
+- [remix-image](https://github.com/Josh-McFarlin/remix-image) - A React component for responsive images in Remix.
 
 ## Stacks
 

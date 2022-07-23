@@ -8,6 +8,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [Stacks](#Stacks)
 - [Templates](#Templates)
 - [Example Apps](#Example-Apps)
+- [Snippets](#Snippets)
 - [Videos](#Videos)
 - [Blog Posts](#Blog-Posts)
 

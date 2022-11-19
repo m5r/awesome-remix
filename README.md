@@ -72,6 +72,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [Interactive Remix Routing](https://github.com/dilums/interactive-remix-routing)
 - [Remix Ink](https://github.com/one-aalam/remix-ink)
 - [jotyy/remix-portfolio](https://github.com/jotyy/remix-portfolio)
+- [Runnable](https://github.com/kineticio/runnable) - Low-code admin workflows, built on Remix
 
 ## Snippets
 

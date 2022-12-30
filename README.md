@@ -96,6 +96,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [Remix Run Speedrun - Pokemon](https://www.youtube.com/watch?v=rgZkd-RAYfE)
 - [Remix is a NEW JavaScript framework you MUST try](https://www.youtube.com/watch?v=r4B69HAOXnA)
 - [Playlist: Build A Fullstack App with Remix, Prisma & MongoDB](https://www.youtube.com/playlist?list=PLn2e1F9Rfr6kPDIAbfkOxgDLf4N3bFiMn)
+- [Playlist: Build A Pet Management System With Remix, Prisma, and Postgres](https://www.youtube.com/watch?v=wqyHGQlZcws&list=PLTnRtjQN5ieYu9SdwLvzKYFVtfqySY7FT)
 
 ## Blog Posts
 

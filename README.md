@@ -47,6 +47,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [dnb-stack](https://github.com/robipop22/dnb-stack) - The Remix Stack for deploying to Vercel with testing, linting, formatting, structure and mock for 3rd party API integration.
 - [azure-remix-stack](https://github.com/aaronpowell/azure-remix-stack) - A remix stack template for running a remix app on Azure
 - [remix-chop-suey-stack](https://github.com/jkcorrea/remix-chop-suey-stack) - Remix+EdgeDB+Tailwind+Fly.io=🖤
+- [Stripe Stack](https://github.com/dev-xo/stripe-stack) - A Stripe focused Remix Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM. Deploys to Fly.io
 
 ## Templates
 

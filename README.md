@@ -130,3 +130,4 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [Why Remix is worth your attention](https://blog.plasmic.app/posts/why-remix-is-worth-your-attention/)
 - [Remix for Next.js Developers](https://blog.plasmic.app/posts/remix-for-nextjs-developers/)
 - [Series: Build A Fullstack App with Remix, Prisma & MongoDB](https://www.prisma.io/blog/fullstack-remix-prisma-mongodb-1-7D0BfTXBmB6r)
+- [Learn how to install Remix with Flowbite and Tailwind CSS](https://flowbite.com/docs/getting-started/remix/)

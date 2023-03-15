@@ -32,6 +32,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [remix-image](https://github.com/Josh-McFarlin/remix-image) - A React component for responsive images in Remix.
 - [remix-forms](https://github.com/seasonedcc/remix-forms) - Magically create forms + actions in Remix
 - [@sentry/remix](https://github.com/getsentry/sentry-javascript/tree/master/packages/remix) - Error and performance monitoring of your Remix apps with [Sentry](https://sentry.io/)
+- [remix-sitemap](https://github.com/fedeya/remix-sitemap) - Sitemap generator for Remix applications
 
 ## Stacks
 

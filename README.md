@@ -50,6 +50,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [remix-chop-suey-stack](https://github.com/jkcorrea/remix-chop-suey-stack) - Remix+EdgeDB+Tailwind+Fly.io=🖤
 - [Stripe Stack](https://github.com/dev-xo/stripe-stack) - A Stripe focused Remix Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM. Deploys to Fly.io
 - [cool-stack](https://github.com/tdsoftpl/cool-stack) - Template repository integrating Remix & Directus into a full-stack monorepo.
+- [remix-auth-webauthn](https://github.com/alexanderson1993/remix-auth-webauthn) - A Remix Auth strategy for signing in with Web Authentication passkeys.
 
 ## Templates
 

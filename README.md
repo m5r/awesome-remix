@@ -34,6 +34,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [@sentry/remix](https://github.com/getsentry/sentry-javascript/tree/master/packages/remix) - Error and performance monitoring of your Remix apps with [Sentry](https://sentry.io/)
 - [remix-sitemap](https://github.com/fedeya/remix-sitemap) - Sitemap generator for Remix applications
 - [remix-auth-webauthn](https://github.com/alexanderson1993/remix-auth-webauthn) - A Remix Auth strategy for signing in with Web Authentication passkeys.
+- [remix-strong-routes](https://github.com/tatemz/remix-strong-routes) - Strongly typed route exports.
 
 ## Stacks
 

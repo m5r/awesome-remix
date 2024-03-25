@@ -36,6 +36,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [remix-auth-webauthn](https://github.com/alexanderson1993/remix-auth-webauthn) - A Remix Auth strategy for signing in with Web Authentication passkeys.
 - [remix-strong-routes](https://github.com/tatemz/remix-strong-routes) - Strongly typed route exports.
 - [remix-progressbar](https://github.com/dev-afzalansari/remix-progressbar) - Progress Bar for Remix Applications.
+- [remix-paraglidejs](https://inlang.com/m/fnhuwzrx/library-brikev-remix-paraglidejs) - Simple, Tiny, Typesafe i18n for Remix Apps
 
 ## Stacks
 

@@ -81,6 +81,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [jotyy/remix-portfolio](https://github.com/jotyy/remix-portfolio)
 - [Runnable](https://github.com/kineticio/runnable) - Low-code admin workflows, built on Remix
 - [Utiliti](https://utiliti.dev) - A collection of web-based, open-source utilities built on Remix.
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 
 ## Snippets
 

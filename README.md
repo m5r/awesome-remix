@@ -37,6 +37,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [remix-strong-routes](https://github.com/tatemz/remix-strong-routes) - Strongly typed route exports.
 - [remix-progressbar](https://github.com/dev-afzalansari/remix-progressbar) - Progress Bar for Remix Applications.
 - [remix-paraglidejs](https://inlang.com/m/fnhuwzrx/library-brikev-remix-paraglidejs) - Simple, Tiny, Typesafe i18n for Remix Apps
+- [@aeorank/remix](https://github.com/vinpatel/aeorank/tree/main/packages/remix) - Scores your Remix app's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
 
 ## Stacks
 

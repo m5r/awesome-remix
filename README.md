@@ -141,3 +141,4 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [Learn how to install Remix with Flowbite and Tailwind CSS](https://flowbite.com/docs/getting-started/remix/)
 - [Integrate Remix application with Tailwind Elements](https://tailwind-elements.com/docs/standard/integrations/remix-integration/)
 - [Set up FlyonUI with Remix using Tailwind CSS](https://flyonui.com/docs/framework-integrations/remix/)
+- [Moving a Framer site to Remix (React Router framework mode)](https://deframer.co/blog/framer-to-remix)

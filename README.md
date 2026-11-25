@@ -82,6 +82,7 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [jotyy/remix-portfolio](https://github.com/jotyy/remix-portfolio)
 - [Runnable](https://github.com/kineticio/runnable) - Low-code admin workflows, built on Remix
 - [Utiliti](https://utiliti.dev) - A collection of web-based, open-source utilities built on Remix.
+- [FCaptcha Remix 3 contact form](https://github.com/WebDecoy/FCaptcha/tree/3b78bc6cd4031299a603853f462d9d1d064a5416/examples/remix) - Runnable form action that checks a self-hosted CAPTCHA token with middleware and handles verifier outages.
 
 ## Snippets
 
